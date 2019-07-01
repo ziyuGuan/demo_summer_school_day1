@@ -39,6 +39,6 @@ Cherry | 5.2 | beauty
 
 
 ```{r}
-plot(1:10)
+plot(1:18)
 ```
 
